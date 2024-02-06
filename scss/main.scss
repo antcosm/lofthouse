@@ -1,0 +1,19 @@
+//base
+
+@import './base/reset';
+@import './base/vars';
+@import './base/mixins';
+@import './base/base';
+
+//Blocks
+
+@import './blocks/header';
+@import './blocks/nav-icon';
+@import './blocks/benefits';
+@import './blocks/appartments';
+@import './blocks/cta';
+@import './blocks/video';
+@import './blocks/section-map';
+@import './blocks/yandex-map';
+@import './blocks/feetback';
+@import './blocks/footer';
